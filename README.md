@@ -12,9 +12,13 @@
 
 # 사용법
 
+![Themida워터마크](https://user-images.githubusercontent.com/67177785/231086363-21c5d153-b169-4a72-ad2f-3d813765d91c.png)
+
+Service.exe를 실행하고 Themida의 워터마크를 클릭해 다음으로 넘어갑니다
+
 ![맘아이식별](https://user-images.githubusercontent.com/67177785/213880958-5a37e740-4d54-45bc-9241-67e7b4f40511.gif)
 
-MomiCrack.exe를 실행하고 부모모드 로그인 창을 선택합니다
+부모모드 로그인 창을 선택합니다
 
 ![맘아이비번노출](https://user-images.githubusercontent.com/67177785/213880965-e9b6feef-33a1-4c38-9774-c32f2af16c8b.gif)
 
